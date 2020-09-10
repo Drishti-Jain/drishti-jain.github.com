@@ -1,2 +1,2 @@
-# drishti-jain.github.com
+# Drishti-jain.github.com
 The website for a sample web design
